@@ -1,0 +1,10 @@
+.storyReel {
+  display: flex;
+}
+
+@media screen and (max-width:599px) {
+  .storyReel {
+    width: 100%;
+  }
+  
+}
