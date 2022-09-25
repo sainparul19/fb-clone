@@ -4,7 +4,7 @@
 
 @media screen and (max-width:599px) {
   .storyReel {
-    width: 350px;
+    width: 300px;
     background-color: floralwhite;
     overflow: scroll;
   }
